@@ -7,7 +7,7 @@ const users = [
 	{
 		id: 2,
 		name: 'Jessica',
-		schoolId: 999
+		schoolId: 99
 	}
 ];
 const grades = [
@@ -18,7 +18,7 @@ const grades = [
 	},
 	{
 		id: 2,
-		schoolId: 99,
+		schoolId: 999,
 		grade: 100
 	},
 	{
@@ -62,11 +62,43 @@ const getStatus = (userId) => {
 	})
 };
 
-getStatus(2).then((status) => {
-	console.log(status);
+// async await
+
+// () => {
+// 	return new Promise((resolve, reject) => {
+//   if () {
+// 	  resolve('Mike')
+//   }	else {
+// 	  reject('This is an error')
+//   }
+//
+// 	})
+// }
+
+const getStatusAlt = async (userId) => {
+	// throw new Error('This is an error');
+	// return 'Mike';
+	const user = await getUser(userId);
+	const grades = await getGrades(user.schoolId);
+
+	let average = 0;
+	if (grades.length > 0) {
+		average = grades.map((grade) => grade.grade).reduce((a,b) => a + b) / grades.length;
+	}
+	return `${user.name} has a ${average} in the class.`;
+};
+
+getStatusAlt(1).then((name) => {
+	console.log(name)
 }).catch((e) => {
 	console.log(e);
 });
+
+// getStatus(2).then((status) => {
+// 	console.log(status);
+// }).catch((e) => {
+// 	console.log(e);
+// });
 
 // getUser(21).then((user) => {
 // 	console.log(user);
