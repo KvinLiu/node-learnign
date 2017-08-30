@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="017cb872-c920-4771-90e2-f75f7ce9d943" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/currency-convert.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/currency-convert.js" afterPath="$PROJECT_DIR$/currency-convert.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +31,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1826">
               <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-              <folding />
+              <folding>
+                <marker date="1504014780000" expanded="true" signature="14:116" ph="[...]" />
+                <marker date="1504014780000" expanded="true" signature="17:64" ph="{&quot;id&quot;: 1...}" />
+                <marker date="1504014780000" expanded="true" signature="67:114" ph="{&quot;id&quot;: 2...}" />
+                <marker date="1504014780000" expanded="true" signature="133:271" ph="[...]" />
+                <marker date="1504014780000" expanded="true" signature="136:178" ph="{&quot;id&quot;: 1...}" />
+                <marker date="1504014780000" expanded="true" signature="181:224" ph="{&quot;id&quot;: 2...}" />
+                <marker date="1504014780000" expanded="true" signature="227:269" ph="{&quot;id&quot;: 3...}" />
+                <marker date="1504014780000" expanded="true" signature="298:500" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="341:496" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="408:431" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="437:493" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="535:650" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="578:646" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="716:1087" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="772:830" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="849:1084" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="932:1025" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="1106:1266" ph="//..." />
+                <marker date="1504014780000" expanded="true" signature="1307:1645" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="1310:1368" ph="//..." />
+                <marker date="1504014780000" expanded="true" signature="1497:1588" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="1679:1701" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="1716:1736" ph="{...}" />
+                <marker date="1504014780000" expanded="true" signature="1740:1847" ph="//..." />
+                <marker date="1504014780000" expanded="true" signature="1849:2062" ph="//..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,11 +65,9 @@
       <file leaf-file-name="currency-convert.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/currency-convert.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="264">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -178,18 +200,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503820960829</updated>
-      <workItem from="1503820964140" duration="4802000" />
+      <workItem from="1503820964140" duration="6025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4802000" />
+    <option name="totallyTimeSpent" value="6025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -230,7 +251,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1826">
           <caret line="83" column="18" lean-forward="false" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1504014780000" expanded="true" signature="14:116" ph="[...]" />
+            <marker date="1504014780000" expanded="true" signature="17:64" ph="{&quot;id&quot;: 1...}" />
+            <marker date="1504014780000" expanded="true" signature="67:114" ph="{&quot;id&quot;: 2...}" />
+            <marker date="1504014780000" expanded="true" signature="133:271" ph="[...]" />
+            <marker date="1504014780000" expanded="true" signature="136:178" ph="{&quot;id&quot;: 1...}" />
+            <marker date="1504014780000" expanded="true" signature="181:224" ph="{&quot;id&quot;: 2...}" />
+            <marker date="1504014780000" expanded="true" signature="227:269" ph="{&quot;id&quot;: 3...}" />
+            <marker date="1504014780000" expanded="true" signature="298:500" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="341:496" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="408:431" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="437:493" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="535:650" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="578:646" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="716:1087" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="772:830" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="849:1084" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="932:1025" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="1106:1266" ph="//..." />
+            <marker date="1504014780000" expanded="true" signature="1307:1645" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="1310:1368" ph="//..." />
+            <marker date="1504014780000" expanded="true" signature="1497:1588" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="1679:1701" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="1716:1736" ph="{...}" />
+            <marker date="1504014780000" expanded="true" signature="1740:1847" ph="//..." />
+            <marker date="1504014780000" expanded="true" signature="1849:2062" ph="//..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -244,11 +291,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/currency-convert.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
